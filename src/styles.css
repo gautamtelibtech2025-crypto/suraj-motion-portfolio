@@ -171,7 +171,7 @@ img { display: block; max-width: 100%; }
 .about-view { background: var(--blue); }
 .about-layout { display: grid; grid-template-columns: .75fr 1fr; gap: 9vw; align-items: center; margin-top: -7vh; }
 .about-layout figure { position: relative; width: min(29vw, 380px); height: min(45vw, 550px); margin: 0 auto; overflow: hidden; border: 2px solid var(--ink); background: #cabdaf; transform: rotate(3deg); box-shadow: 13px 15px 0 rgba(37,37,35,.15); }
-.about-layout figure img { width: 100%; height: 100%; object-fit: cover; object-position: 66% center; filter: grayscale(.12) sepia(.1); transform: scale(1.1); }
+.about-layout figure img { width: 100%; height: 100%; object-fit: cover; object-position: 52% 12%; filter: grayscale(.06) sepia(.05); transform: scale(1.02); }
 .about-layout figcaption { position: absolute; right: 12px; bottom: 11px; left: 12px; color: white; font: 16px var(--hand); }
 .about-text { align-self: end; max-width: 590px; }
 .about-lead { max-width: 480px; margin: 0 0 25px; font: 500 30px/1.07 var(--serif); }
